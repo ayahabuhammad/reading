@@ -22,6 +22,6 @@ Let me introduce myself to you , My name is **Ayah abuhammad** , I am 25 years o
  Title  | Page Link
  ----   | ----
  Introduction  |  [Link](https://ayahabuhammad.github.io/reading/)
-Growthmindest|  [Link](https://ayahabuhammad.github.io/reading/Growthmindest//)
+Growthmindest|  [Link](https://ayahabuhammad.github.io/reading/Growthmindes/)
 
 
