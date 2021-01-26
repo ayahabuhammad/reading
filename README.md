@@ -6,7 +6,7 @@ Here i will summarize the topics in course 102 .
 
 
 
-## *_About Me self_*
+## _About My self_
 Let me introduce myself to you , My name is **Ayah abuhammad** , I am 25 years old, I got a bachelors degree in computer science from Univesity of Jordan and I hadn't worked yet.
 
 
@@ -16,7 +16,7 @@ Let me introduce myself to you , My name is **Ayah abuhammad** , I am 25 years o
 
 
 
-## *_Table of content_* ##
+## _Table of content_ ##
 ---------
 
  Title  | Page Link
