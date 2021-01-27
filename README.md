@@ -22,7 +22,7 @@ Let me introduce myself to you , My name is **Ayah abuhammad** , I am 25 years o
  Title  | Page Link
  ----   | ----
  Introduction   |  [Link](https://ayahabuhammad.github.io/reading-notes/)
- Text Editores  | [Link](https://ayahabuhammad.github.io/reading-notes/text-editores)
+ Text Editores  | [Link](https://ayahabuhammad.github.io/reading-notes/text_editores)
 Growthmindest   |  [Link](https://ayahabuhammad.github.io/reading-notes/Growthmindest)
 Markdawn        |  [Link](https://ayahabuhammad.github.io/reading-notes/Markdown)
 Version control | [Link](https://ayahabuhammad.github.io/reading-notes/Vc)
