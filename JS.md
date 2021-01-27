@@ -28,10 +28,10 @@ The code 3 + 4 is an example of the second expression type. This expression uses
     - arithmetic operators
     - Logical operators
 
- you should be careful WHEN YOU WRITE in javascript about these things :
+ you should be careful when you write in Javascript :
 
-    1- is case sensitive 
-    2- statements must end with semicolon
+    1-  It is case sensitive .
+    2- statements must end with semicolon .
 
 
 ------
