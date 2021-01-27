@@ -21,9 +21,10 @@ Let me introduce myself to you , My name is **Ayah abuhammad** , I am 25 years o
 
  Title  | Page Link
  ----   | ----
- Introduction   |  [Link](https://ayahabuhammad.github.io/reading/)
-Growthmindest   |  [Link](https://ayahabuhammad.github.io/reading/Growthmindest)
-Markdawn        |  [Link](https://ayahabuhammad.github.io/reading/Markdown)
-Version control | [Link](https://ayahabuhammad.github.io/reading/Vc)
-HTML & CSS      | [Link](https://ayahabuhammad.github.io/reading/html&CSS)
-JavaScript       | [Link](https://ayahabuhammad.github.io/reading/JS)
+ Introduction   |  [Link](https://ayahabuhammad.github.io/reading-notes/)
+ Text Editores  | [Link](https://ayahabuhammad.github.io/reading-notes/text-editores)
+Growthmindest   |  [Link](https://ayahabuhammad.github.io/reading-notes/Growthmindest)
+Markdawn        |  [Link](https://ayahabuhammad.github.io/reading-notes/Markdown)
+Version control | [Link](https://ayahabuhammad.github.io/reading-notes/Vc)
+HTML & CSS      | [Link](https://ayahabuhammad.github.io/reading-notes/html&CSS)
+JavaScript       | [Link](https://ayahabuhammad.github.io/reading-notes/JS)
