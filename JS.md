@@ -16,16 +16,15 @@ The expression x = 7 is an example of the first type. This expression uses the =
 
 The code 3 + 4 is an example of the second expression type. This expression uses the + operator to add three and four together without assigning the result, seven, to a variable.
 
- ## Operation ##
+## Operation ##
 
  operator performs some operation on single or multiple operands (data value) and produces a result
 
 
 ### JavaScript has expression categoriesM like :
 
-  -  arithmetic operators
-
-  - Logical operators
+- arithmetic operators
+- Logical operators
 
  you should be careful WHEN YOU WRITE in javascript about these things :
 
