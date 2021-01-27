@@ -4,7 +4,7 @@ is a programming language commonly used in web development, It Can Change HTML C
 ### _JavaScript_ 
  is easy to learn and  We use  **JavaScript** to program the behavior of web pages and to make interact .
 
-## EXPRESSIONS 
+## Expression 
 An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
 
@@ -16,16 +16,19 @@ The expression x = 7 is an example of the first type. This expression uses the =
 
 The code 3 + 4 is an example of the second expression type. This expression uses the + operator to add three and four together without assigning the result, seven, to a variable.
 
- ## operation ##
+ ## Operation ##
 
  operator performs some operation on single or multiple operands (data value) and produces a result
 
 
 ### JavaScript has expression categoriesM like :
- -  arithmetic operators
- - Logical operators
+
+  -  arithmetic operators
+
+  - Logical operators
 
  you should be careful WHEN YOU WRITE in javascript about these things :
+
  1- is case sensitive 
 
   2- statements must end with semicolon
