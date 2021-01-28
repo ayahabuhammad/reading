@@ -1,8 +1,8 @@
 # Comparison operators
 _Comparison operators_:
 
-operators that compare values and return true or false. The operators include: >, <, >=, <=, ===,
- and !==.
+operators that compare values and return true or false. The operators include: >, <, >=, <=,
+ ===, and !==.
 
 You may be familiar with **comparison operators** from math class :
 
@@ -19,17 +19,18 @@ You may be familiar with **comparison operators** from math class :
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 
 - And &&
-- Or "||"
+- Or  | |
 - Not !
 
 
 
 # Looping 
 
-  ## Loops ##  
+  **Loops**
   are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false when analysed. A loop will continue running until the defined condition returns false.
 
-The three most common types of loops are
+## The three most common types of loops are: ##
+
  - ## For ##
        Syntax:
         for ([initialization]); [condition]; [final-expression])

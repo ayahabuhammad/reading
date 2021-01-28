@@ -28,4 +28,4 @@ Markdawn        |  [Link](https://ayahabuhammad.github.io/reading-notes/Markdown
 Version control | [Link](https://ayahabuhammad.github.io/reading-notes/Vc)
 HTML & CSS      | [Link](https://ayahabuhammad.github.io/reading-notes/html&CSS)
 JavaScript       | [Link](https://ayahabuhammad.github.io/reading-notes/JS)
-Operation&Loops   | [Link](https://ayahabuhammad.github.io/reading-notes/loop)
+Operation & Loops   | [Link](https://ayahabuhammad.github.io/reading-notes/loop)
