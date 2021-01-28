@@ -19,7 +19,7 @@ You may be familiar with **comparison operators** from math class :
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.
 
 - And &&
-- Or  | |
+- Or ( || ) 
 - Not !
 
 
@@ -31,23 +31,21 @@ Comparison operators usually return single values of true or false. Logical oper
 
 ## The three most common types of loops are: ##
 
- - ## For ##
+- ## For ##
        Syntax:
         for ([initialization]); [condition]; [final-expression])
          {
             // statement
          }
 
- - ## While ##
+- ## While ##
        Syntax:
        while (condition)
        {
           statement(s);
        }
-
-
-
- - ## Do while ##
+    
+- ## Do while ##
         Syntax:
          do 
          {
