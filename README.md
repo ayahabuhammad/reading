@@ -27,5 +27,6 @@ Growthmindest   |  [Link](https://ayahabuhammad.github.io/reading-notes/Growthmi
 Markdawn        |  [Link](https://ayahabuhammad.github.io/reading-notes/Markdown)
 Version control | [Link](https://ayahabuhammad.github.io/reading-notes/Vc)
 HTML & CSS      | [Link](https://ayahabuhammad.github.io/reading-notes/html)
-JavaScript       | [Link](https://ayahabuhammad.github.io/reading-notes/JS)
+JavaScript      | [Link](https://ayahabuhammad.github.io/reading-notes/JS)
 Operation & Loops   | [Link](https://ayahabuhammad.github.io/reading-notes/loop)
+Function        |    [Link](https://ayahabuhammad.github.io/reading-notes/function)
