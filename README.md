@@ -31,3 +31,29 @@ JavaScript      | [Link](https://ayahabuhammad.github.io/reading-notes/JS)
 Operation & Loops   | [Link](https://ayahabuhammad.github.io/reading-notes/loop)
 Function        |    [Link](https://ayahabuhammad.github.io/reading-notes/function)
 Introducing CSS  |    [Link](https://ayahabuhammad.github.io/reading-notes/CSS)
+
+
+------
+
+# Code 201 Reading Notes
+## _Table of content_ ##
+
+
+
+ Title    | Page Link
+ ----     | ----
+ 201read1 | [Link](https://ayahabuhammad.github.io/reading-notes/class-01)
+201read2  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read2)
+201read3  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read3)
+201read4  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read4)
+201read5  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read5)
+201read6  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read6)
+201read7  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read7)
+201read8  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read8)
+201read9  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read9)
+201read10 |	[Link](https://ayahabuhammad.github.io/reading-notes/201read10)
+201read11 |	[Link](https://ayahabuhammad.github.io/reading-notes/201read11)
+201read12 |	[Link](https://ayahabuhammad.github.io/reading-notes/201read12)
+201read13 |	[Link](https://ayahabuhammad.github.io/reading-notes/201read13)
+201read14 |	[Link](https://ayahabuhammad.github.io/reading-notes/201read14)
+201read15 |[Link](https://ayahabuhammad.github.io/reading-notes/201read15)
