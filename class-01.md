@@ -2,13 +2,13 @@
 ![image](https://www.karasiak.net/wp-content/uploads/2017/10/lego_html_css_javascript.jpg)
 
 # HTML
- - HTML is the universal markup language for the Web. _HTML_ let  you format text, add graphics, create links, input forms, frames and tables and save it all in a text file that any browser can read and display.
+ * HTML is the universal markup language for the Web. _HTML_ let  you format text, add graphics, create links, input forms, frames and tables and save it all in a text file that any browser can read and display.
 
- - HTML Uses Elements to Describe the Structure of Pages.
+ * HTML Uses Elements to Describe the Structure of Pages.
 
     - Every element needed a closing tag except for empty element
 
- - We can add Comments in HTML like this :
+ * We can add Comments in HTML like this :
 
        <!-- comment goes here -->
 
@@ -16,7 +16,7 @@
 ## HTML5
  introduces a new set of elements that allow you to divide up theparts of a page. The names of these elements indicate the kind of contentyou will find in them.
 
- # CSS
+# CSS
 
    Cascading Style Sheets (CSS) is used to format the layout of a webpage.
 
@@ -49,4 +49,6 @@ We can link to javascript file from HTML page using
 
 
  ------
+
+
  ###### here is my GitHub [profile](https://github.com/ayahabuhammad/) ######
