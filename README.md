@@ -44,7 +44,7 @@ Introducing CSS  |    [Link](https://ayahabuhammad.github.io/reading-notes/CSS)
  ----     | ----
  201read1 | [Link](https://ayahabuhammad.github.io/reading-notes/class-01)
 201read2  |	[Link](https://ayahabuhammad.github.io/reading-notes/class-02)
-201read3  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read3)
+201read3  |	[Link](https://ayahabuhammad.github.io/reading-notes/class-03)
 201read4  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read4)
 201read5  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read5)
 201read6  |	[Link](https://ayahabuhammad.github.io/reading-notes/201read6)
