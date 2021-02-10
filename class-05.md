@@ -1,4 +1,4 @@
-# Class 4 Reading
+# Class 5 Reading
 
 # IMAGES IN  HTML
 Images can improve the design and the appearance of a web page.
