@@ -9,6 +9,8 @@ When declaring an object literal, the instance variables may be separated by com
 
 
  # DOCUMENT OBJECT MODEL
+
+
  ![image](https://i.ytimg.com/vi/RbQGn6vBlys/maxresdefault.jpg)
 
 
@@ -30,15 +32,15 @@ When declaring an object literal, the instance variables may be separated by com
      3- attribute nodes
      4- text nodes.
 
- - You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
+ * You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
 
- - Whenever a DOM query can return more than one
+ * Whenever a DOM query can return more than one
 node, it will always return a Nadelist.
 
- - From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
+ * From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
 
- - An element node can contain multiple text nodes and child elements that are siblings of each other.
+ * An element node can contain multiple text nodes and child elements that are siblings of each other.
 
- - In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery).
+ * In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery).
 
- - Browsers offer tools for viewing the DOM tree. 
+ * Browsers offer tools for viewing the DOM tree. 
