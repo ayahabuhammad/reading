@@ -3,47 +3,34 @@
 
 ![image](https://love2dev.com/img/dm_tapeuqaeiw77-1200x630.jpg)
 
-## Data:
 
-* sending form data is easy, but securing an application can be tricky.
+LOCAL STORAGE FOR WEB APPLICATIONS
 
-* Once the form data has been validated on the client-side, it is okay to submit the form.
+Persistent local storage is one of the areas where native client applications have held an advantage over web applications. For native applications, the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state.
 
-* And, since we covered validation in the previous article, we're ready to submit! This article looks at what happens when a user submits a form — where does the data go, and how do we handle it when it gets there?
+## COOKIES
 
- We also look at some of the security concerns associated with sending form data.
+local storage of small amounts of data. But they have three potentially deal breaking downsides:
 
-## Prerequisites
+Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over
+Cookies are included with every HTTP request, thereby sending data un encrypted over the internet (unless your entire web application is served over SSL)
+Cookies are limited to about 4 KB of data — enough to slow down your application (see above), but not enough to be terribly useful
 
-Basic computer literacy, an understanding of HTML, and basic knowledge of HTTP and server-side programming.
-Objective:
+## HTML5 STORAGE
 
-To understand what happens when form data is submitted, including getting a basic idea of how data is processed on the server
-Client/server architecture
+“Local Storage” or “DOM Storage.”
 
-At it's most basic, the web uses a client/server architecture that can be summarized as follows.
+it’s a way for web pages to store named key/value pairs locally, within the client web browser. Like cookies, this data persists even after you navigate away from the web site, close your browser tab, exit your browser, or what have you. Unlike cookies, this data is never transmitted to the remote web server (unless you go out of your way to send it manually)
 
-- A client (usually a web browser) sends a request to a server (most of the time a web server like Apache, Nginx, IIS, Tomcat, etc.), using the HTTP protocol.
+## check for HTML5 Storage
 
-- The server answers the request using the same protocol.
+if (Modernizr.localstorage) { // window.localStorage is available! } else { // no native support for HTML5 storage :( // maybe try dojox.storage or a third-party solution }
 
-## The action attribute
+## USING HTML5 STORAGE
 
-The action attribute defines where the data gets sent. Its value must be a valid relative or absolute URL.
-If this attribute isn't provided, the data will be sent to the URL of the page containing the form — the current page.
+HTML5 Storage: is based on named key/value pairs.
+You store data based on a named key, then you can retrieve that data with the same key.
 
-## The method attribute
+The named key is a string. The data can be any type supported by JavaScript, including strings, Booleans, integers, or floats. However, the data is actually stored as a string.
 
-The method attribute defines how data is sent. The HTTP protocol provides several ways to perform a request; HTML form data can be transmitted via a number of different methods, the most common being the GET method and the POST method
-
-Just remember that a front-end developer is not the one who should define the security model of the data.It's possible to perform client-side form validation, but the server can't trust this validation because it has no way to truly know what has really happened on the client-side.
-
-## Security issues
-
-Each time you send data to a server, you need to consider security.
-
-HTML forms are by far the most common server attack vectors (places where attacks can occur). The problems never come from the HTML forms themselves — they come from how the server handles data.
-
-The Website security article of our server-side learning topic discusses a number of common attacks and potential defences against them in detail.
-
-You should go and check that article out, to get an idea of what's possible.
+If you are storing and retrieving anything other than strings, you will need to use functions like parseInt() or parseFloat() to coerce your retrieved data into the expected JavaScript datatype.
